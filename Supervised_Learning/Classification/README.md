@@ -164,7 +164,9 @@ The models are evaluated using multiple metrics to ensure comprehensive performa
 
 ![Comparision](https://i.ibb.co/TMg6Jf1x/image.png)
 
-***Other notable performers:***
+
+
+*Other notable performers:*
 - **K-Nearest Neighbors** and **SVM (Kernel)** also performed well, with high recall and F1 scores
 - **Naive Bayes** achieved the highest recall (0.959) but with lower specificity (0.4868)
 - **SVM (Linear)** showed perfect precision (1.0) but the lowest specificity (0.0)
