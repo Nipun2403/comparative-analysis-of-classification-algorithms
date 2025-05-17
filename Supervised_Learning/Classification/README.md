@@ -162,7 +162,7 @@ The models are evaluated using multiple metrics to ensure comprehensive performa
 - **Specificity**: 0.8065
 - **Cross-Validation Score**: 0.914
 
-![result](https://i.ibb.co/TMg6Jf1x/image.png)
+![Comparision](https://i.ibb.co/TMg6Jf1x/image.png)
 
 ***Other notable performers:***
 - **K-Nearest Neighbors** and **SVM (Kernel)** also performed well, with high recall and F1 scores
